@@ -47,12 +47,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0B120D&title_color=A9C9B0&text_color=E7E3D6&icon_color=4a3d72" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&background=0B120D&stroke=0B120D&ring=4a3d72&fire=A9C9B0&currStreakLabel=E7E3D6&sideLabels=E7E3D6&currStreakNum=E7E3D6&sideNums=E7E3D6&dates=6b8b74" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SergioDidek&show_icons=true&hide_border=true&bg_color=0B120D&title_color=A9C9B0&text_color=E7E3D6&icon_color=4a3d72" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SergioDidek&hide_border=true&background=0B120D&stroke=0B120D&ring=4a3d72&fire=A9C9B0&currStreakLabel=E7E3D6&sideLabels=E7E3D6&currStreakNum=E7E3D6&sideNums=E7E3D6&dates=6b8b74" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0B120D&color=A9C9B0&line=4a3d72&point=E7E3D6&area=true&hide_border=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioDidek&bg_color=0B120D&color=A9C9B0&line=4a3d72&point=E7E3D6&area=true&hide_border=true" width="97%" />
 
 </div>
 
@@ -66,8 +66,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPO_1&bg_color=0B120D&title_color=A9C9B0&text_color=E7E3D6&icon_color=4a3d72&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPO_2&bg_color=0B120D&title_color=A9C9B0&text_color=E7E3D6&icon_color=4a3d72&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioDidek&repo=SEU_REPO_1&bg_color=0B120D&title_color=A9C9B0&text_color=E7E3D6&icon_color=4a3d72&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SergioDidek&repo=SEU_REPO_2&bg_color=0B120D&title_color=A9C9B0&text_color=E7E3D6&icon_color=4a3d72&hide_border=true" width="48%" />
 
 </div>
 

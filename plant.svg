@@ -1,0 +1,17 @@
+<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="potGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a3d72"/>
+      <stop offset="100%" stop-color="#241a3a"/>
+    </linearGradient>
+    <linearGradient id="leafG" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1c3524"/>
+      <stop offset="100%" stop-color="#5c9c6c"/>
+    </linearGradient>
+  </defs>
+  <path d="M14 26 L26 26 L24 36 L16 36 Z" fill="url(#potGrad)" stroke="#0b120d" stroke-width="1"/>
+  <rect x="12" y="24" width="16" height="4" rx="1" fill="#5c4d8c" stroke="#0b120d" stroke-width="1"/>
+  <path d="M20 27 C20 18 12 14 8 8 C16 8 20 14 20 20 Z" fill="url(#leafG)"/>
+  <path d="M20 27 C20 16 28 12 32 6 C25 7 20 13 20 20 Z" fill="url(#leafG)" opacity="0.9"/>
+  <path d="M20 27 C20 20 20 12 20 4 C17 10 18 18 20 24 Z" fill="#3c6b48"/>
+</svg>
